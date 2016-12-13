@@ -10,5 +10,8 @@ package proyectodefinitivo;
  * @author Expression SergioBatuecas is undefined on line 11, column 14 in Templates/Classes/Class.java.
  */
 public class Ejercicio2 {
-
+   public static void miEjercicio(){
+       System.out.println("Este es el ejercicio de Sergio Batuecas");
+   }
+    
 }
