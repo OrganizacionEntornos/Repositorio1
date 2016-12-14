@@ -15,7 +15,7 @@ public class Ejercicio1 {
     public static void ejercicioProgramacion(){
         System.out.println(25 + 20 - 15);
         System.out.println(20 * 10 + 15 * 10);
-        System.out.println((20 * 10 / 2) - (20 / 5 * 3));
+        System.out.println((20 * 10 / 2) - (20 / 5 * 3));//comentario
         System.out.println((15 / 10 * 2) + (3 / 4 * 8));
 }
 }
