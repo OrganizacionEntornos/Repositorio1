@@ -16,7 +16,7 @@ public class Ejercicio2
         Scanner userInput = new Scanner (System.in);
         
         System.out.println("Por favor, indique una cantidad de dinero");
-        money = userInput.nextInt();
+        money = userInput.nextInt();//Añado comentario para declarar la variable que añade el usuario
         of50 = money/50;
         of20 = (money%50)/20;
         of10 = ((money%50)%20)/10;
